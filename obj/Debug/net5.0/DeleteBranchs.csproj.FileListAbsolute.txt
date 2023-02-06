@@ -1,0 +1,16 @@
+C:\Projetos\DeleteBranch\DeleteBranchs\bin\Debug\net5.0\DeleteBranchs.exe
+C:\Projetos\DeleteBranch\DeleteBranchs\bin\Debug\net5.0\DeleteBranchs.deps.json
+C:\Projetos\DeleteBranch\DeleteBranchs\bin\Debug\net5.0\DeleteBranchs.runtimeconfig.json
+C:\Projetos\DeleteBranch\DeleteBranchs\bin\Debug\net5.0\DeleteBranchs.runtimeconfig.dev.json
+C:\Projetos\DeleteBranch\DeleteBranchs\bin\Debug\net5.0\DeleteBranchs.dll
+C:\Projetos\DeleteBranch\DeleteBranchs\bin\Debug\net5.0\DeleteBranchs.pdb
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.csproj.AssemblyReference.cache
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.AssemblyInfoInputs.cache
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.AssemblyInfo.cs
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.csproj.CoreCompileInputs.cache
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.dll
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\refint\DeleteBranchs.dll
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.pdb
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\DeleteBranchs.genruntimeconfig.cache
+C:\Projetos\DeleteBranch\DeleteBranchs\obj\Debug\net5.0\ref\DeleteBranchs.dll
